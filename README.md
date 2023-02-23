@@ -45,3 +45,9 @@ CREATION OF STUDENT MANAGEMENT SYSTEM
 Add the mysql connector jar file
 and the jstl jar file from javatpoint
 ```
+
+### Output
+  ![image](https://user-images.githubusercontent.com/53470604/220833823-ee13be69-7231-4736-93cb-9eef61789b14.png)
+  ![image](https://user-images.githubusercontent.com/53470604/220833893-28703d8b-3faf-42d0-a5ac-63dc849e9251.png)   
+  ![image](https://user-images.githubusercontent.com/53470604/220833987-1c011606-6335-4e77-a96c-7e355db713d9.png)
+  
